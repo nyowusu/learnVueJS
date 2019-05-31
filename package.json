@@ -1,0 +1,24 @@
+{
+    "name": "vuebasics",
+    "version": "1.0.0",
+    "description": "Learning Vue Basics",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm run test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nyowusu/learnVueJS.git"
+    },
+    "author": "nyowusu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nyowusu/learnVueJS/issues",
+        "email": "yaw.owusu@hotmail.com"
+    },
+    "homepage": "https://github.com/nyowusu/learnVueJS#readme",
+    "dependencies": {
+        "eslint": "^5.16.0"
+    },
+    "private": true
+}
